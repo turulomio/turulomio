@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=turulomio&column=8&row=1"/>
+    <img src="assets/trophies.svg" alt="Trophies"/>
   </a>
 </div>
 <div align="center">
@@ -12,5 +12,9 @@
   <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
 </div>
 <div align="center">
+  <img src="assets/github-metrics.svg" alt="GitHub Metrics"/>
+</div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=turulomio" alt="Profile views">
 </div>
+
